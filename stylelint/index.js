@@ -4,7 +4,6 @@ module.exports = {
   extends: [
     "stylelint-config-standard",
     "stylelint-config-recommended",
-    "stylelint-config-idiomatic-order",
     "stylelint-config-prettier",
   ],
   rules: {
